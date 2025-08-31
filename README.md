@@ -6,6 +6,7 @@ This Django-based tool scans public websites for missing HTTP security headers a
     Grades websites based on header presence 
     Offers actionable security recommendations fix suggestions.
     View recent scans and top-performing sites
+![Screenshot](sample/img03.png)
 ![Screenshot](sample/img01.png)
 ![Screenshot](sample/img02.png)
 
